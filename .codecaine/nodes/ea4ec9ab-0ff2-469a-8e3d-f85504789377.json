@@ -5,6 +5,7 @@
   "name": "codecaine-test-vite",
   "parent": "8b8cbacb-d573-4ca7-af0b-94bb31652468",
   "order": "G",
+  "activeBreakpoint": "desktop",
   "breakpoints": [
     {
       "id": "desktop",
@@ -28,7 +29,9 @@
   "props": {
     "src": "https://omkbff9uoal4o7pz-run.codecainehq.com/",
     "data-codecaine-id": "d28db260-6586-4edb-941f-948ddc07f970",
-    "view": "viewport"
+    "view": "viewport",
+    "viewWidth": 1419,
+    "viewHeight": 2021
   },
   "sizing": {
     "width": "fixed",
@@ -36,11 +39,11 @@
   },
   "style": {
     "position": "absolute",
-    "left": 0,
-    "top": 0,
+    "left": 584,
+    "top": -326.53466227728364,
     "width": 1280,
     "height": 900,
     "backgroundColor": "#ffffff"
   },
-  "updatedAt": "2026-11-17T06:25:56.106Z"
+  "updatedAt": "2026-11-17T06:29:27.294Z"
 }
