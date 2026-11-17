@@ -1,0 +1,14 @@
+{
+  "id": "5b2ae9af-2ec4-4e09-9bb0-805964111b7d",
+  "type": "text",
+  "tag": "span",
+  "parent": "eb04c650-44ad-44ea-86af-667f27bdef04",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": "Setup is one command for your agent.",
+    "data-codecaine-id": "23524d64-cda2-4620-8eb3-e057be13b803"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

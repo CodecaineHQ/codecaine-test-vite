@@ -1,0 +1,42 @@
+{
+  "id": "62b932d1-788c-4b46-bf35-a32c05b2f878",
+  "type": "frame",
+  "tag": "li",
+  "name": "li",
+  "parent": "808868b8-740b-44c8-8e29-d47e60aad0d3",
+  "order": "G",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "data-codecaine-id": "fcc0308a-4970-48fb-9264-0e6001adfddf"
+  },
+  "style": {
+    "boxSizing": "border-box",
+    "borderTopWidth": "0px",
+    "borderRightWidth": "0px",
+    "borderBottomWidth": "0px",
+    "borderLeftWidth": "0px",
+    "borderTopStyle": "solid",
+    "borderRightStyle": "solid",
+    "borderBottomStyle": "solid",
+    "borderLeftStyle": "solid",
+    "borderTopColor": "rgb(239, 239, 239)",
+    "borderRightColor": "rgb(239, 239, 239)",
+    "borderBottomColor": "rgb(239, 239, 239)",
+    "borderLeftColor": "rgb(239, 239, 239)",
+    "borderImageSource": "none",
+    "borderImageSlice": "100%",
+    "borderImageWidth": "1",
+    "borderImageOutset": "0",
+    "borderImageRepeat": "stretch",
+    "marginTop": "0px",
+    "marginRight": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "0px",
+    "paddingTop": "0px",
+    "paddingRight": "0px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "outlineColor": "oklab(0.580538 -0.0244583 -0.227619 / 0.5)"
+  },
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

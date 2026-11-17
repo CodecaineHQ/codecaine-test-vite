@@ -1,0 +1,14 @@
+{
+  "id": "d665829f-f901-4239-a831-0af3c6d9672a",
+  "type": "text",
+  "tag": "span",
+  "parent": "c9d1da34-3dff-4711-9d0b-b3c2402df5fd",
+  "order": "G",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": "The web is your ",
+    "data-codecaine-id": "62342acf-4575-46dd-9df4-1963a3881015"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

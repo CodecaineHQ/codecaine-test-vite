@@ -1,0 +1,14 @@
+{
+  "id": "f2dd52ea-9b2d-4453-8416-570e01a2c530",
+  "type": "text",
+  "tag": "span",
+  "parent": "cc113c50-976b-4149-80df-4055dcf59114",
+  "order": "G",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": "How it ",
+    "data-codecaine-id": "e50632b1-ceb6-4c83-b46e-890dc3101d71"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

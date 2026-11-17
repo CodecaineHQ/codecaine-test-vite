@@ -1,0 +1,43 @@
+{
+  "id": "1351a1bd-7508-41a0-98e7-cffdb46f6f0d",
+  "type": "text",
+  "tag": "span",
+  "parent": "751b60e5-fb01-4dfa-95fa-0ccdaeaa6a99",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": "/AI",
+    "data-codecaine-id": "c47afb6b-b89c-4906-8364-e84b3ae97d26"
+  },
+  "style": {
+    "boxSizing": "border-box",
+    "borderTopWidth": "0px",
+    "borderRightWidth": "0px",
+    "borderBottomWidth": "0px",
+    "borderLeftWidth": "0px",
+    "borderTopStyle": "solid",
+    "borderRightStyle": "solid",
+    "borderBottomStyle": "solid",
+    "borderLeftStyle": "solid",
+    "borderTopColor": "rgba(255, 255, 255, 0.07)",
+    "borderRightColor": "rgba(255, 255, 255, 0.07)",
+    "borderBottomColor": "rgba(255, 255, 255, 0.07)",
+    "borderLeftColor": "rgba(255, 255, 255, 0.07)",
+    "borderImageSource": "none",
+    "borderImageSlice": "100%",
+    "borderImageWidth": "1",
+    "borderImageOutset": "0",
+    "borderImageRepeat": "stretch",
+    "marginTop": "0px",
+    "marginRight": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "0px",
+    "paddingTop": "0px",
+    "paddingRight": "0px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "outlineColor": "oklab(0.580538 -0.0244583 -0.227619 / 0.5)",
+    "display": "block"
+  },
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "3a4e4a99-1d7c-4e2e-805d-300031af7e6a",
+  "type": "frame",
+  "tag": "svg",
+  "name": "svg",
+  "parent": "f06ec3e8-b710-47f5-bd21-da03192cbc6a",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "xmlns": "http://www.w3.org/2000/svg",
+    "width": "24",
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "currentColor",
+    "stroke-width": "2",
+    "stroke-linecap": "round",
+    "stroke-linejoin": "round",
+    "aria-hidden": "true",
+    "className": "lucide lucide-plus h-5 w-5",
+    "innerMarkup": "<path d=\"M5 12h14\"></path><path d=\"M12 5v14\"></path>",
+    "data-codecaine-id": "42c4fae9-17bc-46bf-bbf7-bb0cc3cc1ca3"
+  },
+  "style": {
+    "display": "block",
+    "height": 20,
+    "width": 20
+  },
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

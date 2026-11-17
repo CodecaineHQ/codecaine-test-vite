@@ -1,0 +1,23 @@
+{
+  "id": "985d12b0-3462-4cf9-90eb-93ed4c8d328b",
+  "type": "frame",
+  "tag": "svg",
+  "name": "svg",
+  "parent": "33b57a42-33d1-4064-a369-854267ea3057",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "xmlns": "http://www.w3.org/2000/svg",
+    "aria-hidden": "true",
+    "role": "img",
+    "width": "0.5em",
+    "height": "0.5em",
+    "viewBox": "0 0 24 24",
+    "innerMarkup": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M5 12h14m-7-7l7 7l-7 7\"></path>",
+    "data-codecaine-id": "4a25f78c-39de-4aa2-bf18-dfbec8589052"
+  },
+  "style": {
+    "display": "block"
+  },
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

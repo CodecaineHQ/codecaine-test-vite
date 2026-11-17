@@ -1,0 +1,14 @@
+{
+  "id": "c11ef38b-9938-4986-8b0e-6e4737f3200d",
+  "type": "text",
+  "tag": "span",
+  "parent": "54f8aed5-1c6f-436d-8e78-af437ad63bd8",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": " It runs on the canvas",
+    "data-codecaine-id": "53a9861e-1aa3-4920-a97c-b3196cb4c029"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

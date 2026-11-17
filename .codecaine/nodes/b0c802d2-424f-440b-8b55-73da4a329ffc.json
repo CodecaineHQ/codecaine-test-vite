@@ -1,0 +1,14 @@
+{
+  "id": "b0c802d2-424f-440b-8b55-73da4a329ffc",
+  "type": "text",
+  "tag": "span",
+  "parent": "d4559ac8-589b-402a-8935-0692f9816bba",
+  "order": "G",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": "One canvas. ",
+    "data-codecaine-id": "0494b0f6-b9ba-435e-8760-d54a3c493dd5"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

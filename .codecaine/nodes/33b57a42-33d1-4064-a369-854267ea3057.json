@@ -1,0 +1,83 @@
+{
+  "id": "33b57a42-33d1-4064-a369-854267ea3057",
+  "type": "section",
+  "tag": "a",
+  "name": "a",
+  "parent": "66455e8c-5656-45df-aeb6-2ba8080f734c",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "href": "https://codecainehq.com/install",
+    "aria-label": "See how to install",
+    "className": "flex size-[1em] items-center justify-center rounded-full bg-ls-fg text-ls-bg shadow-ls-stack-shot transition-[scale,opacity] duration-[450ms] ease-[cubic-bezier(0.22,1.8,0.36,1)] hover:opacity-90 active:scale-105 active:duration-[250ms] motion-reduce:transition-none outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ls-fg",
+    "data-codecaine-id": "a7e7cdf8-6396-4a29-b4f9-6dd73152167b"
+  },
+  "states": {
+    "hover": {
+      "style": {
+        "opacity": 0.9
+      }
+    },
+    "active": {
+      "style": {
+        "scale": 1.05,
+        "transitionDuration": "250ms"
+      }
+    }
+  },
+  "style": {
+    "color": "rgb(255, 255, 255)",
+    "textDecorationLine": "inherit",
+    "display": "flex",
+    "width": "1em",
+    "height": "1em",
+    "alignItems": "center",
+    "justifyContent": "center",
+    "borderRadius": 9999,
+    "transitionDuration": "0.45s",
+    "transitionTimingFunction": "cubic-bezier(0.22, 1.8, 0.36, 1)",
+    "outlineStyle": "none",
+    "boxSizing": "border-box",
+    "borderTopWidth": "0px",
+    "borderRightWidth": "0px",
+    "borderBottomWidth": "0px",
+    "borderLeftWidth": "0px",
+    "borderTopStyle": "solid",
+    "borderRightStyle": "solid",
+    "borderBottomStyle": "solid",
+    "borderLeftStyle": "solid",
+    "borderTopColor": "rgb(239, 239, 239)",
+    "borderRightColor": "rgb(239, 239, 239)",
+    "borderBottomColor": "rgb(239, 239, 239)",
+    "borderLeftColor": "rgb(239, 239, 239)",
+    "borderImageSource": "none",
+    "borderImageSlice": "100%",
+    "borderImageWidth": "1",
+    "borderImageOutset": "0",
+    "borderImageRepeat": "stretch",
+    "marginTop": "0px",
+    "marginRight": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "0px",
+    "paddingTop": "0px",
+    "paddingRight": "0px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "outlineColor": "oklab(0.580538 -0.0244583 -0.227619 / 0.5)",
+    "textDecorationThickness": "inherit",
+    "textDecorationStyle": "inherit",
+    "textDecorationColor": "inherit",
+    "borderTopLeftRadius": "2.14748e+09px",
+    "borderTopRightRadius": "2.14748e+09px",
+    "borderBottomRightRadius": "2.14748e+09px",
+    "borderBottomLeftRadius": "2.14748e+09px",
+    "backgroundColor": "rgb(55, 50, 47)",
+    "--tw-shadow": "0 0 0 1px #0003, 0 -2px 0 #0e0f100a, 0 24px 60px #0e0f1038",
+    "boxShadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.2) 0px 0px 0px 1px, rgba(14, 15, 16, 0.04) 0px -2px 0px 0px, rgba(14, 15, 16, 0.22) 0px 24px 60px 0px",
+    "transitionProperty": "scale, opacity",
+    "--tw-duration": ".45s",
+    "--tw-ease": "cubic-bezier(.22,1.8,.36,1)",
+    "--tw-outline-style": "none"
+  },
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}

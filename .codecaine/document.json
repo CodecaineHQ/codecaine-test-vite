@@ -2,5 +2,11 @@
   "format": 2,
   "id": "cea93f9f-b9bd-4c08-800f-62c2e95be3a7",
   "name": "codecaine-test-vite",
-  "rootId": "8b8cbacb-d573-4ca7-af0b-94bb31652468"
+  "rootId": "8b8cbacb-d573-4ca7-af0b-94bb31652468",
+  "fonts": [
+    {
+      "kind": "google",
+      "family": "Merriweather"
+    }
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "id": "465e35ca-ea87-4685-ba03-bd0c0dcc9c27",
+  "type": "text",
+  "tag": "span",
+  "parent": "e0db6e7b-f750-4912-946a-8a0994c0e11a",
+  "order": "V",
+  "createdAt": "2026-11-17T06:26:36.653Z",
+  "props": {
+    "text": " Pick a project",
+    "data-codecaine-id": "4ee32bad-3cf6-4138-92cf-d8b73a46225e"
+  },
+  "style": {},
+  "updatedAt": "2026-11-17T06:26:36.653Z"
+}
