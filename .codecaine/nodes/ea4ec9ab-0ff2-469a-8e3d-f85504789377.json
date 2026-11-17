@@ -1,0 +1,44 @@
+{
+  "id": "ea4ec9ab-0ff2-469a-8e3d-f85504789377",
+  "type": "liveproject",
+  "tag": "div",
+  "name": "codecaine-test-vite",
+  "parent": "8b8cbacb-d573-4ca7-af0b-94bb31652468",
+  "order": "G",
+  "breakpoints": [
+    {
+      "id": "desktop",
+      "label": "Desktop",
+      "minWidth": 1280,
+      "width": 1280
+    },
+    {
+      "id": "tablet",
+      "label": "Tablet",
+      "minWidth": 800,
+      "width": 834
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile",
+      "minWidth": 0,
+      "width": 390
+    }
+  ],
+  "props": {
+    "src": "https://omkbff9uoal4o7pz-run.codecainehq.com/",
+    "data-codecaine-id": "d28db260-6586-4edb-941f-948ddc07f970"
+  },
+  "sizing": {
+    "width": "fixed",
+    "height": "hug"
+  },
+  "style": {
+    "position": "absolute",
+    "left": 0,
+    "top": 0,
+    "width": 1280,
+    "height": 900,
+    "backgroundColor": "#ffffff"
+  }
+}
