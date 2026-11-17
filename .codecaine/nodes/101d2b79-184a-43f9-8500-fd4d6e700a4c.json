@@ -19,7 +19,12 @@
     "position": "absolute",
     "backgroundColor": "#ffffff",
     "left": -1722.668753885333,
-    "top": -24.340910489375915
+    "top": -24.340910489375915,
+    "borderRadius": 0,
+    "borderTopLeftRadius": "",
+    "borderTopRightRadius": "",
+    "borderBottomRightRadius": "",
+    "borderBottomLeftRadius": ""
   },
-  "updatedAt": "2026-11-17T06:25:22.259Z"
+  "updatedAt": "2026-11-17T06:25:38.432Z"
 }
