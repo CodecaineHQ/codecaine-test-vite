@@ -27,7 +27,8 @@
   ],
   "props": {
     "src": "https://omkbff9uoal4o7pz-run.codecainehq.com/",
-    "data-codecaine-id": "d28db260-6586-4edb-941f-948ddc07f970"
+    "data-codecaine-id": "d28db260-6586-4edb-941f-948ddc07f970",
+    "view": "viewport"
   },
   "sizing": {
     "width": "fixed",
@@ -40,5 +41,6 @@
     "width": 1280,
     "height": 900,
     "backgroundColor": "#ffffff"
-  }
+  },
+  "updatedAt": "2026-11-17T06:25:56.106Z"
 }
