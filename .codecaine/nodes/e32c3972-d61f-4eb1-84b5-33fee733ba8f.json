@@ -5,6 +5,30 @@
   "parent": "a50c4853-6c51-4cbe-9ea7-3daa67addbf1",
   "order": "V",
   "createdAt": "2026-11-17T06:26:36.653Z",
+  "image": {
+    "fit": "crop",
+    "anchor": "center center",
+    "adjust": {
+      "exposure": 0,
+      "contrast": 0,
+      "saturation": 0,
+      "temperature": 0,
+      "tint": 0,
+      "highlights": 0,
+      "shadows": 0,
+      "hue": 0,
+      "blur": 0,
+      "grayscale": 0,
+      "sepia": 0,
+      "invert": 0
+    },
+    "crop": {
+      "x": 0.28453272434491494,
+      "y": 0.28448275862068967,
+      "width": 0.4309345513101701,
+      "height": 0.43103448275862066
+    }
+  },
   "props": {
     "alt": "The running page open on the board, its heading and paragraph selected for editing",
     "width": "700",
@@ -50,5 +74,5 @@
     "verticalAlign": "middle",
     "maxWidth": "100%"
   },
-  "updatedAt": "2026-11-17T06:26:37.891Z"
+  "updatedAt": "2026-11-17T06:26:56.608Z"
 }
